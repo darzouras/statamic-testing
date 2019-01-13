@@ -12,7 +12,7 @@ Important links:
 
 Note: I was unable to get the Statamic demo working with PHP 7.3 installed due to a bug (I forgot the name). PHP 7.1 seems to be running smoothly, so when going through the Laravel Valet install process I install PHP 7.1 specifically with `brew install php@7.1`
 
-*Apparently an update to support PHP7.3 came out a day after I attempted my first download- PHP versioning should be much less of a big deal now.*
+*Apparently an update to support PHP7.3 came out a day after I attempted my first download- PHP versioning might not be an issue now*
 
 ## Quick Reference
 
