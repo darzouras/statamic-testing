@@ -1,0 +1,14 @@
+title: About
+sections:
+  section-1:
+    fields:
+      main-content:
+        display: Main Content
+        type: markdown
+        instructions: This is the main page content
+  section-2:
+    fields:
+      extra-content:
+        display: Extra Content
+        type: markdown
+        instructions: Extra content can go here
